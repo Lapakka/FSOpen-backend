@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+content-type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InBlcmpvdSIsImlkIjoiNWJmMmRhYTJmMzI4ZDQxNzhjMjFhZmViIiwiaWF0IjoxNTQyODkzNzAxfQ.eUGEntLAxsutzdk6DWYa-f2bSh1Bm2olYBdtv3d0GJY
+
+{
+  "title": "FSOpen Osa 5 Testi API test",
+  "author": "Nelos Testaaja",
+  "url": "https://fullstackopen.github.io/tehtävät/#osa-4",
+  "likes": 4
+}
