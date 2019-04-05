@@ -1,5 +1,5 @@
 <h1>Full Stack Open backend</h1>
-<h2>This code is made for MOO course https://fullstackopen.github.io</br>
+<h2>Made for MOO course https://fullstackopen.github.io<br />
 Section https://fullstackopen.github.io/tehtävät/#osa-4</h2>
 
 <h3>Structure:</h3>
@@ -32,4 +32,4 @@ Section https://fullstackopen.github.io/tehtävät/#osa-4</h2>
 <p>eslintrc.js (ESLint configuration)</p>
 <p>index.js (the main hub. Handles database connection, starting the server and router setup)</p>
 <p>package.json (metadata, run scripts and dependencies)</p>
-<p>package-lock.json (ensures that the installed dependencies are the same everywhere)</p>
+<p>package-lock.json (ensures that the npm installed dependencies are the same everywhere)</p>
